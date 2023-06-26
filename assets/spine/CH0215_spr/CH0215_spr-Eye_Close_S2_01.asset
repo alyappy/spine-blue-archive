@@ -1,0 +1,40 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6040701189892748115
+    },
+    "m_Name": "CH0215_spr-Eye_Close_S2_01",
+    "skeletonDataAsset": {
+        "m_FileID": 0,
+        "m_PathID": -3322389179161395086
+    },
+    "animationName": "",
+    "PlayMode": 2,
+    "FinishMode": 2,
+    "ClipName": "Eye_Close_S2_01",
+    "IsTrackMainIdle": 0,
+    "UseDefaultIntroMix": 0,
+    "IntroMix": 0.0,
+    "Loop": 1,
+    "Track": 2,
+    "UseDefaultOutroMix": 0,
+    "OutroMix": 0.0,
+    "OutroStartOffset": 0.0,
+    "RandomTimingIntroDelayMode": 1,
+    "IntroDelayDuration": 3.0,
+    "RandomDelayMin": 2.5,
+    "RandomDelayMax": 4.5,
+    "AddRandomLoopMin": 0,
+    "AddRandomLoopMax": 1,
+    "NextClipObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "SyncPlayClipObjects": [],
+    "SoundKeys": []
+}

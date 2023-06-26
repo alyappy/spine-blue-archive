@@ -1,0 +1,45 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6040701189892748115
+    },
+    "m_Name": "CH0200_home-Talk_05_M",
+    "skeletonDataAsset": {
+        "m_FileID": 0,
+        "m_PathID": 7976218161114000704
+    },
+    "animationName": "",
+    "PlayMode": 1,
+    "FinishMode": 2,
+    "ClipName": "Talk_05_M",
+    "IsTrackMainIdle": 0,
+    "UseDefaultIntroMix": 0,
+    "IntroMix": 0.30000001192092896,
+    "Loop": 0,
+    "Track": 1,
+    "UseDefaultOutroMix": 0,
+    "OutroMix": 0.30000001192092896,
+    "OutroStartOffset": 0.0,
+    "RandomTimingIntroDelayMode": 0,
+    "IntroDelayDuration": 3.0,
+    "RandomDelayMin": 3.0,
+    "RandomDelayMax": 4.0,
+    "AddRandomLoopMin": 0,
+    "AddRandomLoopMax": 0,
+    "NextClipObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "SyncPlayClipObjects": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -4525465197394428583
+        }
+    ],
+    "SoundKeys": []
+}

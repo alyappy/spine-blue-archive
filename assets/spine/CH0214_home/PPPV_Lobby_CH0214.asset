@@ -1,0 +1,26 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4554676352285796699
+    },
+    "m_Name": "PPPV_Lobby_CH0214",
+    "components": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -7163888957524517157
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2263113667841412969
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6967658026686841731
+        }
+    ]
+}
