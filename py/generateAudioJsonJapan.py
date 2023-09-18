@@ -20,7 +20,7 @@ if not(os.path.isdir("./data")):
 if __name__ == "__main__":
     baseUrl = getBaseResourceURL() + '/MediaResources'
     resUrl = baseUrl + '/MediaCatalog.json'
-    # https://prod-clientpatch.bluearchiveyostar.com/r57_1_33_9gl0a9hwakll368rofhn_2 + /MediaResources/MediaCatalog.json
+    # https://prod-clientpatch.bluearchiveyostar.com/r59_vaw1oeolasn493uf0cb0_3 + /MediaResources/MediaCatalog.json
     res = requests.get(resUrl).json()["Table"]
     for asset in res:
         if "Audio/VOC_JP/" in res[asset]["path"] and "MemorialLobby" in res[asset]["path"]:
